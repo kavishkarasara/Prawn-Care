@@ -1,0 +1,112 @@
+# TODO: Add Documentation Comments to All Dart Files
+
+This task involves adding /// documentation comments to all Dart files in the lib/ directory, describing the purpose of classes, functions, and key code sections without altering the code logic.
+
+## Files to Process:
+- [x] lib/main.dart
+- [x] lib/models/feeding_item.dart
+- [x] lib/models/feeding_schedule.dart
+- [x] lib/models/message.dart
+- [x] lib/models/notification_item.dart
+- [x] lib/models/order.dart
+- [x] lib/models/order_model.dart
+- [x] lib/models/order_status.dart
+- [x] lib/models/place_order_model.dart
+- [x] lib/models/pond_condition.dart
+- [x] lib/models/special_note.dart
+- [x] lib/models/supply_order.dart
+- [x] lib/models/task.dart
+- [x] lib/models/tracking_data.dart
+- [x] lib/models/user_type_model.dart
+- [x] lib/models/weather_model.dart
+- [x] lib/screens/are_you_screen.dart
+- [x] lib/screens/get_start_screen.dart
+- [ ] lib/screens/customers/customer_forgot_password_screen.dart
+- [x] lib/screens/customers/customer_for_pass.dart
+- [x] lib/screens/customers/customer_mainpage.dart
+- [x] lib/screens/customers/customer_signin.dart
+- [x] lib/screens/customers/customer_signup.dart
+- [x] lib/screens/customers/order_history.dart
+- [x] lib/screens/customers/order_history_screen.dart
+- [x] lib/screens/customers/order_track.dart
+- [x] lib/screens/customers/place_order_screen.dart
+- [ ] lib/screens/supplers/request_orders_screen.dart
+- [ ] lib/screens/supplers/supplier_forgot_password.dart
+- [ ] lib/screens/supplers/supplier_mainpage.dart
+- [ ] lib/screens/supplers/supplier_sign_in_screen.dart
+- [ ] lib/screens/supplers/supplier_sign_up_screen.dart
+- [ ] lib/screens/workers/feeding_schedule_page.dart
+- [ ] lib/screens/workers/orders_screen.dart
+- [ ] lib/screens/workers/prawn_care_home_page.dart
+- [ ] lib/screens/workers/special_note.dart
+- [ ] lib/screens/workers/worker_notification_system.dart
+- [ ] lib/screens/workers/worker_sign_in_screen.dart
+- [ ] lib/services/api_service.dart
+- [ ] lib/services/auth_exception.dart
+- [ ] lib/services/auth_service.dart
+- [ ] lib/services/feeding_service.dart
+- [ ] lib/services/location_service.dart
+- [ ] lib/services/order_service.dart
+- [ ] lib/services/place_order_service.dart
+- [ ] lib/services/pond_service.dart
+- [ ] lib/services/push_notification_service.dart
+- [ ] lib/services/special_note_service.dart
+- [ ] lib/services/supabase_service.dart
+- [ ] lib/services/task_service.dart
+- [ ] lib/services/weather_service.dart
+- [ ] lib/services/worker_notification.dart
+- [ ] lib/services/w_order_service.dart
+- [ ] lib/utils/app_utils.dart
+- [ ] lib/utils/auth_exception.dart
+- [ ] lib/utils/colors.dart
+- [ ] lib/utils/condition_card.dart
+- [ ] lib/utils/constants.dart
+- [ ] lib/utils/formatters.dart
+- [ ] lib/utils/pond_status_helper.dart
+- [ ] lib/utils/validators.dart
+- [ ] lib/widgets/add_feeding_dialog.dart
+- [ ] lib/widgets/add_pond_dialog.dart
+- [ ] lib/widgets/auth_widgets.dart
+- [ ] lib/widgets/common_dialogs.dart
+- [ ] lib/widgets/completed_orders_modal.dart
+- [ ] lib/widgets/completed_order_list_item.dart
+- [ ] lib/widgets/complete_feeding_dialog.dart
+- [ ] lib/widgets/condition_card.dart
+- [ ] lib/widgets/condition_icons.dart
+- [ ] lib/widgets/customer_main_widgets.dart
+- [ ] lib/widgets/empty_schedule_view.dart
+- [ ] lib/widgets/error_state_widget.dart
+- [ ] lib/widgets/feeding_list_item.dart
+- [ ] lib/widgets/feed_card.dart
+- [ ] lib/widgets/loading_card.dart
+- [ ] lib/widgets/location_dialog.dart
+- [ ] lib/widgets/menu_card.dart
+- [ ] lib/widgets/metric_item.dart
+- [ ] lib/widgets/notification_dialog.dart
+- [ ] lib/widgets/order_details_modal.dart
+- [ ] lib/widgets/order_list_item.dart
+- [ ] lib/widgets/order_tracking_screen.dart
+- [ ] lib/widgets/order_widgets.dart
+- [ ] lib/widgets/parameter_tile.dart
+- [ ] lib/widgets/place_order_widgets.dart
+- [ ] lib/widgets/pond_card.dart
+- [ ] lib/widgets/pond_condition_card.dart
+- [ ] lib/widgets/pond_details_dialog_widget.dart
+- [ ] lib/widgets/pond_details_screen.dart
+- [ ] lib/widgets/request_feed_header.dart
+- [ ] lib/widgets/request_message_card.dart
+- [ ] lib/widgets/request_screen_header.dart
+- [ ] lib/widgets/splash_footer_widget.dart
+- [ ] lib/widgets/splash_title_widget.dart
+- [ ] lib/widgets/suppler_sign_up_form.dart
+- [ ] lib/widgets/supplier_main_header.dart
+- [ ] lib/widgets/supplier_sign_in_form.dart
+- [ ] lib/widgets/supplier_sign_in_header.dart
+- [ ] lib/widgets/supplier_sign_up_header.dart
+- [ ] lib/widgets/supply_order_list_item.dart
+- [ ] lib/widgets/timeline_item.dart
+- [ ] lib/widgets/usre_type_card.dart
+- [ ] lib/widgets/common/custom_elevated_button.dart
+- [ ] lib/widgets/common/custom_text_field.dart
+- [ ] lib/widgets/common/feature_card.dart
+- [ ] lib/widgets/common/metric_card.dart
